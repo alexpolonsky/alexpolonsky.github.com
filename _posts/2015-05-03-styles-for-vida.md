@@ -10,33 +10,33 @@ so that you can concentrate on the content of your blog.
 First of all, let's have a glance at the basic styles: [link](http://github.com/syaning/vida),
 **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
 
-### Headers:
+### כותרות:
 
-# Header 1
+# כותרת 1
 
-## Header 2
+## כותרת 2
 
-### Header 3
+### כותרת 3
 
-#### Header 4
+#### כותרת 4
 
-##### Header 5
+##### כותרת 5
 
-###### Header 6
+###### כותרת 6
 
-### Lists:
+### רשימות
 
-- list item 1
-- list item 2
-- list item 3
+- פריט 1
+- פריט 2
+- פריט 3
 
-1. list item 1
-2. list item 2
-3. list item 3
+1. פריט 1
+2. פריט 2
+3. פריט 3
 
 ### Blockquote:
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית נולום ארווס סאפיאן - פוסיליס קוויס, אקווזמן להאמית קרהשק סכעיט דז מא, מנכם למטכין נשואי מנורך. צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק. קולורס מונפרד אדנדום סילקוף, מרגשי ומרגשח. עמחליף קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קונדימנטום קורוס בליקרה, נונסטי קלובר בריקנה סטום, לפריקך תצטריק לרטי. 
 
 ### [BASSCSS](http://www.basscss.com/) colors:
 
@@ -58,11 +58,11 @@ First of all, let's have a glance at the basic styles: [link](http://github.com/
 - <span class="purple">purple</span>
 - <span class="maroon">maroon</span>
 
-### Horizontal rule:
+### קו מפריד
 
 -----------------------
 
-### Image:
+### תמונה
 
 ![]({{site.baseurl}}/images/image.jpg)
 
@@ -71,31 +71,31 @@ First of all, let's have a glance at the basic styles: [link](http://github.com/
 <table>
 	<thead>
 		<tr>
-			<th>Name</th>
-			<th>Age</th>
-			<th>Fruit</th>
+			<th>שם</th>
+			<th>גיל</th>
+			<th>פרי</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>Alex</td>
+			<td>ג׳וש</td>
 			<td>22</td>
-			<td>Apple</td>
+			<td>תפוח</td>
 		</tr>
 		<tr>
-			<td>Bran</td>
+			<td>בריאן</td>
 			<td>20</td>
-			<td>Orange</td>
+			<td>תפוז</td>
 		</tr>
 		<tr>
-			<td>Mike</td>
+			<td>מייק</td>
 			<td>21</td>
-			<td>Waltermelon</td>
+			<td>אבטיח</td>
 		</tr>
 	</tbody>
 </table>
 
-### Code snippet
+### קוד
 
 ```javascript
 // index.js
