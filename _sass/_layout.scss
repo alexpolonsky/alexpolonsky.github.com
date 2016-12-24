@@ -6,7 +6,7 @@ main {
 }
 .site-header {
     .site-title {
-        font-weight: 300;
+        font-weight: 700;
         > a {
             color: $text-color;
             text-decoration: none;
@@ -46,12 +46,12 @@ main {
 .post {
     position: relative;
     .post-header {
-        text-align: center;
+        text-align: right;
         margin-bottom: 0;
     }
     .post-meta {
         margin: 0;
-        text-align: center;
+        text-align: right;
         color: $meta-color;
         font-size: $small-font-size;
     }
@@ -60,7 +60,7 @@ main {
     .site-header {
         .site-title,
         .site-nav {
-            text-align: center;
+            text-align: right;
         }
     }
 }
