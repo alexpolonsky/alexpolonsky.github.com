@@ -16,11 +16,13 @@ main {
      .img-header {
         height: 85px;
         width: 85px;
-        margin-top: 1em;
-        margin-bottom: -1em;
+        margin-top: 20px;
+        margin-bottom: -20px;
       }
     
     .site-nav {
+        margin-top: 20px;
+        margin-bottom: -20px;
         > a {
             color: $text-color;
             &:hover {
