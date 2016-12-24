@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Styles for vida
+title:  דוגמאות סטיילים
 date:   2015-05-03 10:30:00
 ---
 
