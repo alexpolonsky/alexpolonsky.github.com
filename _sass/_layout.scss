@@ -17,15 +17,19 @@ main {
         height: 85px;
         width: 85px;
         margin-top: 20px;
+        margin-bottom: -20px;
+
       }
     
     .site-disc {
         margin-bottom: 20px;
+        margin-bottom: -20px;
+
               }
     
     .site-nav {
-        margin-top: -20px;
         margin-bottom: 20px;
+        margin-top: -20px;
         > a {
             color: $text-color;
             &:hover {
