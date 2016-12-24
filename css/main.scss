@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-$base-font-family: Merriweather, Helvetica, Arial, sans-serif;
+$base-font-family: font-family: 'Assistant', sans-serif;
 $base-font-size:   16px;
 $small-font-size:  0.875rem;
 $base-line-height: 1.5;
@@ -14,7 +14,7 @@ $link-color:   #0074d9;
 $meta-color:   #a0a0a0;
 $border-color: #ddd;
 
-@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Assistant:300,400,600,700&subset=hebrew);
 @import "color";
 @import "base";
 @import "layout";
