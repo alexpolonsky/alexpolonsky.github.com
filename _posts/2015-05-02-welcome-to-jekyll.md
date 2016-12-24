@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome to Jekyll
+title:  פוסט בדיקה פשוט
 date:   2016-05-02 09:00:00
 ---
 
