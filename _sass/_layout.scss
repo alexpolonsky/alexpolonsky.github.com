@@ -12,6 +12,19 @@ main {
             text-decoration: none;
         }
     }
+    
+     .img-header {
+        float: right;
+        margin-left: 1em;
+        height: 85px;
+        width: 85px;
+        padding: 2em 5% 0;
+        max-width: 48em;
+        margin: 0 auto;
+        overflow: hidden;
+        margin-bottom: -20px;
+      }
+    
     .site-nav {
         > a {
             color: $text-color;
@@ -44,17 +57,6 @@ main {
     }
 }
 
-      .img-header {
-        float: right;
-        margin-left: 1em;
-        height: 100px;
-        width: 100px;
-        padding: 2em 5% 0;
-        max-width: 48em;
-        margin: 0 auto;
-        overflow: hidden;
-        margin-bottom: -20px;
-      }
 
 .post {
     position: relative;
